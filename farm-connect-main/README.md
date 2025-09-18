@@ -89,15 +89,7 @@ To run FARM CONNECT on your local machine:
 5. **Access the application**
    - Open your browser and navigate to `http://localhost:3000`
 
-## Contributors
 
-This project was developed by:
-
-- Vikas Prakash Saini
-- Abhinav Shinde
-- Yash Wavhal
-- Vaibhav Thore
-- Shubham Khansare
 
 ---
 
